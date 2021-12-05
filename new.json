@@ -1,0 +1,10 @@
+{
+	"Name": "Nastya Shabunko",
+	"Age": 20,
+	"Pets": {
+		"qantity": 2,
+		"type": "cat",
+		"name_1": "Lumy",
+		"name_2": "Misa" },
+	"salary": "300$"
+}
