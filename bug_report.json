@@ -1,3 +1,20 @@
-{
-"bugs": ["bug_1", "bug_2", "bug_3"]
+{ 
+    "bugs" = [ 
+        {
+            "titlуe": " mistake_in_the_title_on_the_main_page", 
+            "staps": "load_site", 
+            "ER": " title_is_spelled_correctly",
+            "AR": "the_title_is_misspelled"
+        }, 
+        {
+            "titlуe": " mistake_in_the_title_on_the_main_page", 
+            "staps": {
+                        “1”: "load_site", 
+                        “2”: “click_on_the_link”
+                          }
+            "ER": " title_is_spelled_correctly",
+            "AR": "the_title_is_misspelled"
+       }
+    ] 
 }
+
