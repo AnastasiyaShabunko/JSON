@@ -1,20 +1,20 @@
 { 
-    "bugs" 
+    "bugs"
     [ 
         {
-            "title": " mistake_in_the_title_on_the_main_page", 
+            "title": "mistake_in_the_title_on_the_main_page", 
             "staps": "load_site", 
-            "ER": " title_is_spelled_correctly",
+            "ER": "title_is_spelled_correctly",
             "AR": "the_title_is_misspelled"
         }, 
         {
-            "title": "mistake_in_the_title_on_the_main_page", 
+            "title": "link_Books_is_broken", 
             "staps": {
                         "1": "load_site", 
                         "2": "click_on_the_link"
                           }
-            "ER": " title_is_spelled_correctly",
-            "AR": "the_title_is_misspelled"
+            "ER": "link_works",
+            "AR": "the_link_does_not_work"
        }
     ] 
 }
