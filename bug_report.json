@@ -1,15 +1,15 @@
 { 
-    "bugs"
+    "bugs":
     [ 
         {
             "title": "mistake_in_the_title_on_the_main_page", 
-            "staps": "load_site", 
+            "steps": "load_site", 
             "ER": "title_is_spelled_correctly",
             "AR": "the_title_is_misspelled"
         }, 
         {
             "title": "link_Books_is_broken", 
-            "staps": {
+            "steps": {
                         "1": "load_site", 
                         "2": "click_on_the_link"
                           }
